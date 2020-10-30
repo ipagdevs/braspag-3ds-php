@@ -1,2 +1,2 @@
 # braspag-3ds-php
-SDK PHP para o 3DS
+Integração PHP com a API do 3DS da Braspag
