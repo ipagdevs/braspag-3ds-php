@@ -4,7 +4,7 @@
       "Roisoft": "src"
     }
   },
-  "name": "roisoft-dev/braspag-3ds-php",
+  "name": "jrodella/braspag-3ds-php",
   "description": "Integração com a API do 3DS da Braspag",
   "license": "MIT",
   "type": "library",
