@@ -1,10 +1,5 @@
 {
-  "autoload": {
-    "psr-0": {
-      "Roisoft": "src"
-    }
-  },
-  "name": "jrodella/braspag-3ds-php",
+  "name": "ipagdevs/braspag-3ds-php",
   "description": "Integração com a API do 3DS da Braspag",
   "license": "MIT",
   "type": "library",
@@ -13,6 +8,11 @@
     "ext-curl": "*",
     "ext-json": "*",
     "psr/log":"^1.1"
+  },
+  "autoload": {
+    "psr-0": {
+      "Roisoft": "src"
+    }
   },
   "suggest": {
     "monolog/monolog": "Allows more advanced logging of the application flow"
